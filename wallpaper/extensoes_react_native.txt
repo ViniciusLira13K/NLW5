@@ -1,0 +1,2 @@
+expo fonts
+react-native-iphone-x-helper = pega as dimensões do note do celular(header e footer)
